@@ -85,7 +85,9 @@ https://www.shure.com/en-ASIA/products/microphones/sm7b
 I'm sure you've seen these in radio stations, and on streams and podcasts everywhere. Originally released in 1973, these big, black, chunky mics have stood the test of time for a reason. They're a solid vocal mic, that won't emphasise any particular frequency which makes them very easy to EQ. It has that classic voice/announcer sound that cuts extremely well, and it's low sensitivity helps reject a lot of ambient noise, so it works well in untreated spaces. The downside to this mic is that it does need a fair amount of gain to get the most out of it. Most audio interfaces can't supply the 60db of gain it needs so I pair it with a cloud lifter to boost the signal before it hits the interface for conversion. It is on the expensive side of things but it's built like a truck and will last a lifetime.
 ### **Shure SM58**
 *Cardioid Dynamic Microphone*
+
 https://www.shure.com/en-ASIA/products/microphones/sm58
+
 Primarily a live, handheld microphone (only the most widely used live vocal mic ever) - I include it here mainly because it has a very similar frequency response to the SM7b and maybe a lot more readily available. If you're not sure about a SM7b and want to get the vibe of one, you may be able to get your hands on one of these to try out. There are some differences between the two, the biggest one to keep in mind when comparing the two is probably that the mic capsule is set further into the SM7b than on the SM58 so keep a little more distance from a 58 to get the vibe. I probably wouldn't recommend a 58 for serious streaming/podcast use, but I am putting together a mobile podcast setup based around 4 SM58s and a solid state recorder.
 ### **Audio Technica BP40**
 *Hypercardioid Dynamic Microphone*
