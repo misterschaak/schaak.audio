@@ -79,7 +79,9 @@ Not as technical as the previous two points, but worth mentioning so you underst
 Now you are knowledged up, let's talk about some mics I have had experience with and would recommend!
 ### **Shure SM7b**
 *Cardioid Dynamic Microphone*
+
 https://www.shure.com/en-ASIA/products/microphones/sm7b
+
 I'm sure you've seen these in radio stations, and on streams and podcasts everywhere. Originally released in 1973, these big, black, chunky mics have stood the test of time for a reason. They're a solid vocal mic, that won't emphasise any particular frequency which makes them very easy to EQ. It has that classic voice/announcer sound that cuts extremely well, and it's low sensitivity helps reject a lot of ambient noise, so it works well in untreated spaces. The downside to this mic is that it does need a fair amount of gain to get the most out of it. Most audio interfaces can't supply the 60db of gain it needs so I pair it with a cloud lifter to boost the signal before it hits the interface for conversion. It is on the expensive side of things but it's built like a truck and will last a lifetime.
 ### **Shure SM58**
 *Cardioid Dynamic Microphone*
