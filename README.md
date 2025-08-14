@@ -55,7 +55,7 @@ If you need to find a new spot to record, a single clap in the middle of a room 
 OK you have a place to record - congrats! Now comes the fun part.
 
 Microphones come in all shapes, sizes, and types. Before we get down to choices and recommendations, it pays to understand some key differences between mics. This is by no means an exhaustive list of all the options, but the main things we'll need to consider.
-##### XLR vs USB
+#### XLR vs USB
 Microphones need to connect to other things in order for sound to be captured. The two connection types we'll be talking about, are XLR and USB.
 
 XLR connectors are balanced audio connectors that can also supply low voltage power to condenser mics. They're identifiable by their chunky, three pin connectors that can carry their ground, positive and negative signals over long distances with little degradation. Microphones with XLR connectors are just that. They need to be plugged into an audio interface before their signal can be captured by a PC, but are also often used in conjunction with mixers, preamps, processors. 
@@ -65,35 +65,35 @@ USB mics on the other hand, connect directly to a PC. They are a microphone and 
 The trade-off generally comes in the form of lower quality parts than you would get if you had dedicated components, the biggest trade-off of which is often in the Analogue to Digital converter. Remember we talked about how the human voice is rich, and emotive, and dynamic? Well a trade-off in A/D conversion is a trade off in communicating those qualities. 
 
 Without getting too much into the details of it all, most USB mics will come with a 16bit/24kHz converter which kinda means splitting up each chunk of data into 16 pieces and capturing that at a rate of 24kHz. A lower bit rate will often translate to a higher noise floor (the ambient hiss you'll often hear in recordings), and an amplification of that noise floor when we try an do cool stuff like EQ and compression later in the chain - especially if you don't capture a loud enough signal to begin with.
-##### Dynamic vs Condenser
+#### Dynamic vs Condenser
 You may have already heard the terms Dynamic and Condenser being used when referring to microphones, often in conjunction with other phrases like "cardioid dynamic" or "large diaphragm cardioid condenser". Here's a simple description of each.
 
 **Dynamic microphones** are passive, as in they don't need electricity to operate. AC voltage is created when your vocal waves hit a diaphragm and conductive coil vibrates within a magnetic field. Because they require energy to pick up sounds, they are not great for  higher pitched sounds (they have a fall off at about 10k), but they do generally have a slight natural boost around 1-5k, which makes them perfect for voice and vocals.
 
 **Condenser microphones** on the other hand are active, powered by phantom power supplied through the mic cable (or USB cable). These mics convert sound waves to electrical energy through a vibrating diaphragm, and electrostatic principals. Condenser mics are a a lot more sensitive than dynamic mics - they excel in picking up fine details and higher pitched sounds. Because of their sensitivity, they are not a great choice for untreated environments as they will easily pick up room noise, computer fans, and keyboard and mouse clicks. One area they would probably work great in though, is ASMR.
-##### Cardioid vs Supercardioid vs Hypercardioid
+#### Cardioid vs Supercardioid vs Hypercardioid
 This describes the pickup pattern for your microphone, ie. the directions and angles that a microphone is sensitive to. The most common pickup pattern you will see is Cardioid, which means your mic is sensitive to the front, and has some level of sound rejection fro the sides and rear, which s great for lessening the sounds from keyboards or monitors. Super/Hyper cardioid have a tighter window at the front of the mic for more focussed pickup but it's often at the expense of some rear rejection.
-##### End address vs Side address
+#### End address vs Side address
 Not as technical as the previous two points, but worth mentioning so you understand that their is a difference (and don't look silly talking into the wrong part of your fancy mic). As I mentioned above, mics are directional, bit it's not always from the same direction. Some mics you talk into the end of, and some mics you talk into the side of. As a general rule, dynamic mics are mostly end address, and condenser mics are mostly side address (I'm not definitive about either of these statements because there are a few exceptions).
 
 Now you are knowledged up, let's talk about some mics I have had experience with and would recommend!
-##### **Shure SM7b**
+#### **Shure SM7b**
 *Cardioid Dynamic Microphone*
 https://www.shure.com/en-ASIA/products/microphones/sm7b
 I'm sure you've seen these in radio stations, and on streams and podcasts everywhere. Originally released in 1973, these big, black, chunky mics have stood the test of time for a reason. They're a solid vocal mic, that won't emphasise any particular frequency which makes them very easy to EQ. It has that classic voice/announcer sound that cuts extremely well, and it's low sensitivity helps reject a lot of ambient noise, so it works well in untreated spaces. The downside to this mic is that it does need a fair amount of gain to get the most out of it. Most audio interfaces can't supply the 60db of gain it needs so I pair it with a cloud lifter to boost the signal before it hits the interface for conversion. It is on the expensive side of things but it's built like a truck and will last a lifetime.
-##### **Shure SM58**
+#### **Shure SM58**
 *Cardioid Dynamic Microphone*
 https://www.shure.com/en-ASIA/products/microphones/sm58
 Primarily a live, handheld microphone (only the most widely used live vocal mic ever) - I include it here mainly because it has a very similar frequency response to the SM7b and maybe a lot more readily available. If you're not sure about a SM7b and want to get the vibe of one, you may be able to get your hands on one of these to try out. There are some differences between the two, the biggest one to keep in mind when comparing the two is probably that the mic capsule is set further into the SM7b than on the SM58 so keep a little more distance from a 58 to get the vibe. I probably wouldn't recommend a 58 for serious streaming/podcast use, but I am putting together a mobile podcast setup based around 4 SM58s and a solid state recorder.
-##### **Audio Technica BP40**
+#### **Audio Technica BP40**
 *Hypercardioid Dynamic Microphone*
 https://www.audio-technica.com/en-au/bp40
 I originally picked up this mic because I liked what Audio Technica were doing with their headphones and I wanted to hear their take on a broadcast mic. I'd read it was kinda like all the benefits of a dynamic mic but with a little more of the condenser vibe. It has ended up being my primary voice mic for over a year now. It's EQ isn't as flat as a SM7b, it has a nice little presence bump which gives the sound some more clarity (or sparkle I guess), it has a tighter polar pattern which I had to get used to, but it also has a really useable proximity effect thanks to the capsule being closer to the grille. I really enjoy how this mic sounds - My current  setup uses this mic for talking, and an SM7b for singing.
-##### **Rode NT-1A**
+#### **Rode NT-1A**
 **Cardioid Large-Diaphragm Condenser**
 https://rode.com/en/products/nt1a
 I've included this because it was my first decent mic. I've used it for streaming, and podcasts, and recording vocals, and acoustic guitar. It's was a great first condenser but, much like any condenser, I always found myself trying to tame excess sounds, whether it be room noise, or keyboards or computer fans, even rustling of clothes. It did teach me a lot about good microphone technique because even with a foam wind shield it was prone to plosives (a pop screen was better but a lot to have in front of you when streaming). After owning and using this mic I really understood how a dynamic mic better suited the environments I was using, and trying to counteract the problems was fighting a losing battle.
-##### **Rode Podmic**
+#### **Rode Podmic**
 *Cardioid Dynamic Microphone*
 https://rode.com/en/products/podmic
 I've only had a small amount of experience with this mic, but I've included it to say that you don't need to spend a lot of money to get started with a semi-decent XLR dynamic mic. It's not as flat or classic sounding as a SM7b, so you might need to do a bit more work in the EQ to get it sounding how you want, but it's a quality mic at a good price that might leave you with some extra cash to spend on the rest of your signal chain. There is a USB version of this mic as well but if you stick with the XLR you'll have a mic that is still useful years into the future, even if you have since upgraded to something else.
@@ -101,14 +101,14 @@ I've only had a small amount of experience with this mic, but I've included it t
 I've touched on a few mics to get you started, at a variety of price points. There are many more mics out there to choose from, and it's worth finding something that not only suits your voice, but one that you love to use.
 
 There are a few classic broadcasting mics I would still love to try out - at the top of that list is the RE20.
-##### **Electro-Voice RE20**
+#### **Electro-Voice RE20**
 *Cardioid Dynamic Microphone*
 https://products.electrovoice.com/na/en/re20
 This mic, along with the SM7b are synonymous with that classic broadcasting sound. There's generally a reason a classic mic earns that title and I'd like to experience what all the hype is about for myself. 
 
 ## The Processing
 Now here's where my signal chain may deviate from a lot of others, and it's really based on a piece of hardware and what it has taught me about modern audio.
-##### **DBX 286s**
+#### **DBX 286s**
 *Microphone Pre-amp Processor*
 https://dbxpro.com/en/products/286s
 
@@ -123,7 +123,7 @@ Regardless on how you do it, processing audio is integral to a getting s great s
 Let's take a look at each of the steps. Note: if you are going the plugin route, these steps will take pace after the **Audio Interface** stage.
 ### Preamp
 We can't just use a microphone signal as it comes out. Every mic expects a certain level of pre amplification to reach its optimal working level. If a preamp isn't powerful enough to drive a mic it can feel dull and lifeless and all the processing in the world won't get you out of that hole. Mics like the SM7b require a lot of preamp gain so check what your preamp specs before buying (or get something like a Cloudlifter which will increase overall gain of a signal by a fixed amount before it hits your preamp)
-##### **Cloudlifter CL-1**
+#### **Cloudlifter CL-1**
 Mic Activator / Gain Box
 https://www.cloudmicrophones.com/cloudlifter-cl-1
 
@@ -138,15 +138,15 @@ Compression aims to reduce the distance between the loudest bits and the quietes
 Witchcraft right?! 
 
 Kinda, yeah. There are five main settings for a classic compressor; as we step through them, I hope you'll start to get a picture of how it works.
-##### Threshold
+#### Threshold
 To preserve dynamics, we want to keep the majority of the signal untouched, so we set a threshold level. If the signal gets louder than this threshold level, the compressor kicks in to action. The lower the threshold, the more of your signal will be compressed and the less dynamics you will have. Sometimes when figuring out how much compression to use I will record a section of me speaking and look at the levels and peaks and use a number that would cut the high levels of a peak as a starting point. From there, if it feels too compressed I'll raise the level, and if it needs more I'll lower the level. 
-##### Ratio
+#### Ratio
 The ratio is the amount the volume gets turned down once the signal passes the threshold. You don't want this to be too high, as to sound like the loud bits are getting suddenly cut off, or two low that nothing is actually happening. I generally start at a ratio of 6:1 and see how it feels. And work up or down from there.
-##### Attack
+#### Attack
 This setting tells the compressor how fast after a signal passes the threshold, it should kick in. Voice peaks are fairly short and quick, so we need to be able catch them on time. set a fairly fast attack speed, I generally start at 10 milliseconds.
-##### Release
+#### Release
 You've probably guessed this one already, but the release setting tells the compressor how long after the signal dips back below the threshold should it stay active. Not only are voice peaks short and quick, they also tend to come in short groups, so keeping a slightly longer release time will ensure the compressor stays open long enough to catch any extra peaks. I generally start at 100 milliseconds.
-##### Output gain
+#### Output gain
 Remember when I said that we want compression to be unnoticeable? Well doing all of the above, by it's very nature will make your track quieter. The reason compression works is that it reduces the peaks of the loud bits, so that when we can turn the whole track up again, and the quiet parts can be louder. Set the output gain so that your track is no louder or softer when the effect is engaged.
 
 Congratulations! You just compressed a thing.
@@ -168,10 +168,10 @@ OK! We have a quality signal, it's time to turn it into something useable by a P
 The good news is that if you're just capturing voice, you don't need a huge amount of inputs or features, just a quality A/D Converter, a decent build quality, and a decently powered preamp if you're not doing external processing.
 
 Here are the two I've used the most.
-##### **Presonus AudioBox**
+#### **Presonus AudioBox**
 https://au.presonus.com/products/audiobox-usb
 This is the audio interface I started with. It's cheap, a little rough around the edges, and sometimes slightly noisy depending on what else is nearby. I've included it to point out that even this cheap interface does 24bit/48kHz conversion, which is better than you get with most USB mics.
-##### **Focusrite Scarlett**
+#### **Focusrite Scarlett**
 https://focusrite.com/scarlett
 Which leads me to the Focusrite Scarlett range. These interfaces are a great cross section of features, quality and price. They have good preamps, quality 24-bit/192 kHz A/D Converters and have a solid build quality. I'd suggest starting here.
 
