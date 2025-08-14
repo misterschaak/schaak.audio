@@ -89,15 +89,21 @@ https://www.shure.com/en-ASIA/products/microphones/sm58
 Primarily a live, handheld microphone (only the most widely used live vocal mic ever) - I include it here mainly because it has a very similar frequency response to the SM7b and maybe a lot more readily available. If you're not sure about a SM7b and want to get the vibe of one, you may be able to get your hands on one of these to try out. There are some differences between the two, the biggest one to keep in mind when comparing the two is probably that the mic capsule is set further into the SM7b than on the SM58 so keep a little more distance from a 58 to get the vibe. I probably wouldn't recommend a 58 for serious streaming/podcast use, but I am putting together a mobile podcast setup based around 4 SM58s and a solid state recorder.
 ### **Audio Technica BP40**
 *Hypercardioid Dynamic Microphone*
+
 https://www.audio-technica.com/en-au/bp40
+
 I originally picked up this mic because I liked what Audio Technica were doing with their headphones and I wanted to hear their take on a broadcast mic. I'd read it was kinda like all the benefits of a dynamic mic but with a little more of the condenser vibe. It has ended up being my primary voice mic for over a year now. It's EQ isn't as flat as a SM7b, it has a nice little presence bump which gives the sound some more clarity (or sparkle I guess), it has a tighter polar pattern which I had to get used to, but it also has a really useable proximity effect thanks to the capsule being closer to the grille. I really enjoy how this mic sounds - My current  setup uses this mic for talking, and an SM7b for singing.
 ### **Rode NT-1A**
 **Cardioid Large-Diaphragm Condenser**
+
 https://rode.com/en/products/nt1a
+
 I've included this because it was my first decent mic. I've used it for streaming, and podcasts, and recording vocals, and acoustic guitar. It's was a great first condenser but, much like any condenser, I always found myself trying to tame excess sounds, whether it be room noise, or keyboards or computer fans, even rustling of clothes. It did teach me a lot about good microphone technique because even with a foam wind shield it was prone to plosives (a pop screen was better but a lot to have in front of you when streaming). After owning and using this mic I really understood how a dynamic mic better suited the environments I was using, and trying to counteract the problems was fighting a losing battle.
 ### **Rode Podmic**
 *Cardioid Dynamic Microphone*
+
 https://rode.com/en/products/podmic
+
 I've only had a small amount of experience with this mic, but I've included it to say that you don't need to spend a lot of money to get started with a semi-decent XLR dynamic mic. It's not as flat or classic sounding as a SM7b, so you might need to do a bit more work in the EQ to get it sounding how you want, but it's a quality mic at a good price that might leave you with some extra cash to spend on the rest of your signal chain. There is a USB version of this mic as well but if you stick with the XLR you'll have a mic that is still useful years into the future, even if you have since upgraded to something else.
 
 I've touched on a few mics to get you started, at a variety of price points. There are many more mics out there to choose from, and it's worth finding something that not only suits your voice, but one that you love to use.
@@ -105,13 +111,16 @@ I've touched on a few mics to get you started, at a variety of price points. The
 There are a few classic broadcasting mics I would still love to try out - at the top of that list is the RE20.
 ### **Electro-Voice RE20**
 *Cardioid Dynamic Microphone*
+
 https://products.electrovoice.com/na/en/re20
+
 This mic, along with the SM7b are synonymous with that classic broadcasting sound. There's generally a reason a classic mic earns that title and I'd like to experience what all the hype is about for myself. 
 
 ## The Processing
 Now here's where my signal chain may deviate from a lot of others, and it's really based on a piece of hardware and what it has taught me about modern audio.
 ### **DBX 286s**
 *Microphone Pre-amp Processor*
+
 https://dbxpro.com/en/products/286s
 
 I do all of my signal processing externally, using an external piece of equipment. It's not some rare vintage thing that will be impossible to find and break the bank - you can get one new, now,  for not too much money. It's the DBX 286s channel strip. As single, 1U, rack mount channel strip that includes a pre amp, compressor, de-esser, eq and noise gate all in one. The 286s is the piece of equipment that has been part of my setup for the longest. It has stayed through mic changes, audio interface replacements, and PC upgrades. It has been the very definition of set and forget (plus it has cool blinky lights on it).
@@ -127,6 +136,7 @@ Let's take a look at each of the steps. Note: if you are going the plugin route,
 We can't just use a microphone signal as it comes out. Every mic expects a certain level of pre amplification to reach its optimal working level. If a preamp isn't powerful enough to drive a mic it can feel dull and lifeless and all the processing in the world won't get you out of that hole. Mics like the SM7b require a lot of preamp gain so check what your preamp specs before buying (or get something like a Cloudlifter which will increase overall gain of a signal by a fixed amount before it hits your preamp)
 #### **Cloudlifter CL-1**
 Mic Activator / Gain Box
+
 https://www.cloudmicrophones.com/cloudlifter-cl-1
 
 Our aim is to capture a strong source signal with a broad range of dynamics, so we're starting with a quality signal before processing and A/D Conversion. If you're not doing external processing the preamp duties will be handled by your audio interface.
@@ -172,9 +182,11 @@ The good news is that if you're just capturing voice, you don't need a huge amou
 Here are the two I've used the most.
 #### **Presonus AudioBox**
 https://au.presonus.com/products/audiobox-usb
+
 This is the audio interface I started with. It's cheap, a little rough around the edges, and sometimes slightly noisy depending on what else is nearby. I've included it to point out that even this cheap interface does 24bit/48kHz conversion, which is better than you get with most USB mics.
 #### **Focusrite Scarlett**
 https://focusrite.com/scarlett
+
 Which leads me to the Focusrite Scarlett range. These interfaces are a great cross section of features, quality and price. They have good preamps, quality 24-bit/192 kHz A/D Converters and have a solid build quality. I'd suggest starting here.
 
 Note: if you're doing your processing with PC based plugins these will happen after this stage. There are ways to do this processing at a system level with software like WaveLink by Elgato but along with the previously stated issues around upgrades and crashing, I've never been a massive fan of the latency this method adds to the signal when you're monitoring your voice.
