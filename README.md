@@ -9,15 +9,15 @@ Those memories are burned into my brain; the differences between mains and monit
 Since then I've gotten to record music at home and in studios; recorded and produced podcasts; performed live music, solo and with a band; streamed both voice and live music over Twitch; and had to route audio in many other wonderful and wacky ways.
 
 I've been asked some questions about how I do my vocal audio for podcast and streams, and what I would recommend, so I thought I would document some of that info here. This will be a work in progress guide, solely focussing on capturing a person talking into a microphone. I'll add to it as I tweak and change, or as more questions arise.
-#### First things
+### First things
 This isn't a total beginners guide, but it's also not an exhaustive tech deep dive. Beginners will definitely learn some things, but I'm not suggesting my approach is where you jump in. When I was young and just getting into purchasing my own audio equipment, my parents told me "Don't try and keep up with your uncle" and that was good advice. I was able to use the knowledge I learned from him to make some good choices that could grow with me - some of those purchases still serve me well today.
 
 For total beginners I'd say start simple and then slowly figure out what YOU need and what YOUR setup requires. If I've learnt anything, it's that there's not one way to do it, and anyone saying there is, is probably trying to sell you something. Of course some ways are better than others, and it pays to understand the whys behind the 'rules' - but Prince has recorded vocals with an sm57 at the mixing desk, and Zeppelin has recorded drums in a stairwell. In the end you'll find what works for you.
-#### Second things
+### Second things
 These are my experiences; my requirements; and the way I set my stuff up. As I said above, there are a multitude of other ways to capture and route audio; start small and slowly build and upgrade the parts you need, as you need them.
-#### Third things
+### Third things
 I am not a gatekeeper of creating content. If all you have is a work supplied USB conference headset and a passion to create - go forth and make!! Will better audio make for a more pleasant experience for both you and your listeners? Yes! But it's never more important than having the opportunity and desire to create in the first place.
-#### Forth things
+### Forth things
 I'll try and keep the detailed tech talk to a minimum, but we'll touch on some nitty gritty stuff as we go. Try not to let your eyes glaze over too much, I promise you it'll be worth it. If you want more information after you finish, this guide will leave you with enough knowledge to at least start hunting for it.
 
 # OK let's go!
