@@ -1,5 +1,10 @@
 # The Schaak Guide to Audios
 
+> To read this documentation as a website,
+> 1. Clone this repo to your device,
+> 2. Make sure you have [Docsify](https://github.com/docsifyjs/docsify) installed,
+> 3. In your terminal, at the base of this repo, run `docsify serve .` and open the site on `localhost:3000` in your web browser.
+
 If I had to trace my love of audio and audio equipment back to somewhere, it would be my uncle.
 
 My uncle used to let me tag along at a very young age, when he would run the audio for local council events. Whether it was a dance concert at the local town hall, or outside broadcasts at the local festival. I not only got to see how it all went together, but also had some hands-on experience with microphones, amplifiers. different kinds of speakers, cueing tracks, mixing, and most importantly problem solving a signal chain.
